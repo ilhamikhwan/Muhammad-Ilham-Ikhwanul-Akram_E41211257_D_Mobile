@@ -41,7 +41,7 @@ public class MainActivity2 extends AppCompatActivity {
         if (text != null) {
             showText.setText(text);
         } else {
-            showText.setText("Ga Ada Data");
+            showText.setText("Tidak ada Data");
         }
     }
 
@@ -52,7 +52,7 @@ public class MainActivity2 extends AppCompatActivity {
         if (text != null) {
             showText.setText(text);
         } else {
-            showText.setText("Ga Ada Data");
+            showText.setText("Tidak ada Data");
         }
     }
 
